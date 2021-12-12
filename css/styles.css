@@ -158,6 +158,13 @@ p {
 
 .footer-icon {
   padding: 20px 10px;
+  color: #000;
+  text-decoration: none;
+}
+
+.footer-icon:hover {
+  color: #ef8172;
+  text-decoration: none;
 }
 
 /* Media Queries */
